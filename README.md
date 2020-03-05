@@ -1,2 +1,4 @@
 # shoppinglist
-what i need
+what i need;
+
+beer
