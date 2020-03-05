@@ -1,5 +1,4 @@
 # shoppinglist
 what i need;
 
-beer
-rum
+beer and rum
